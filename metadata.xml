@@ -5,7 +5,7 @@
     <metadataSchema>ADL SCORM 1.2</metadataSchema>
     <identifier>
       <catalog>URI</catalog>
-      <entry>com.editorexportDialogdefaultsauthorName.نشاطالتدبر.ecf0a462-c4b6-48b7-b725-9741c6179fd3</entry>
+      <entry>com.editorexportDialogdefaultsauthorName.نشاطالتدبر.90516053-dab5-4de9-90f3-4ca4c6605842</entry>
     </identifier>
     <language>en</language>
     <contribute>
@@ -19,14 +19,14 @@ ORG:editor.exportDialog.defaults.authorName
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2025-12-24</dateTime>
-        <description language="en"><![CDATA[1766569491568]]></description>
+        <description language="en"><![CDATA[1766577091202]]></description>
       </date>
     </contribute>
   </metametadata>
   <general>
     <identifier>
       <catalog>URI</catalog>
-      <entry>com.editorexportDialogdefaultsauthorName.نشاطالتدبر.ecf0a462-c4b6-48b7-b725-9741c6179fd3</entry>
+      <entry>com.editorexportDialogdefaultsauthorName.نشاطالتدبر.90516053-dab5-4de9-90f3-4ca4c6605842</entry>
     </identifier>
     <title>
       <string language="en"><![CDATA[نشاط التدبر]]></string>
@@ -59,7 +59,7 @@ ORG:editor.exportDialog.defaults.authorName
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2025-12-24</dateTime>
-        <description language="en"><![CDATA[1766569491568]]></description>
+        <description language="en"><![CDATA[1766577091202]]></description>
       </date>
     </contribute>
     <contribute>
@@ -73,7 +73,7 @@ ORG:editor.exportDialog.defaults.authorName
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2025-12-24</dateTime>
-        <description language="en"><![CDATA[1766569491568]]></description>
+        <description language="en"><![CDATA[1766577091202]]></description>
       </date>
     </contribute>
     <contribute>
@@ -88,7 +88,7 @@ ORG:editor.exportDialog.defaults.authorName
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2025-12-24</dateTime>
-        <description language="en"><![CDATA[1766569491568]]></description>
+        <description language="en"><![CDATA[1766577091202]]></description>
       </date>
     </contribute>
     <contribute>
@@ -102,7 +102,7 @@ ORG:editor.exportDialog.defaults.authorName
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2025-12-24</dateTime>
-        <description language="en"><![CDATA[1766569491568]]></description>
+        <description language="en"><![CDATA[1766577091202]]></description>
       </date>
     </contribute>
   </lifeCycle>
@@ -110,7 +110,7 @@ END:VCARD  ]]></entity>
     <format>text/html</format>
     <format>application/x-javascript</format>
     <format>text/css</format>
-    <size/>
+    <size>2761462</size>
     <location>index.html</location>
     <duration>
       <duration>PT0H0M0S</duration>
