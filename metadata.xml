@@ -5,7 +5,7 @@
     <metadataSchema>ADL SCORM 1.2</metadataSchema>
     <identifier>
       <catalog>URI</catalog>
-      <entry>com.editorexportDialogdefaultsauthorName.نشاطرسائلربانيةضعنقاطالاختلافوالاتفاقفيالمكانالمناسب.d23cf56a-efa6-4cbe-9047-faf661832fce</entry>
+      <entry>com.editorexportDialogdefaultsauthorName.نشاطرسائلربانية.e7cfee05-eec2-41b7-9a23-caa913209f9a</entry>
     </identifier>
     <language>en</language>
     <contribute>
@@ -19,17 +19,17 @@ ORG:editor.exportDialog.defaults.authorName
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2026-01-26</dateTime>
-        <description language="en"><![CDATA[1769359507475]]></description>
+        <description language="en"><![CDATA[1769442972062]]></description>
       </date>
     </contribute>
   </metametadata>
   <general>
     <identifier>
       <catalog>URI</catalog>
-      <entry>com.editorexportDialogdefaultsauthorName.نشاطرسائلربانيةضعنقاطالاختلافوالاتفاقفيالمكانالمناسب.d23cf56a-efa6-4cbe-9047-faf661832fce</entry>
+      <entry>com.editorexportDialogdefaultsauthorName.نشاطرسائلربانية.e7cfee05-eec2-41b7-9a23-caa913209f9a</entry>
     </identifier>
     <title>
-      <string language="en"><![CDATA[نشاط رسائل ربانية ضع نقاط الاختلاف و الاتفاق في المكان المناسب]]></string>
+      <string language="en"><![CDATA[نشاط رسائل ربانية]]></string>
     </title>
     <language>en</language>
     <description>
@@ -59,7 +59,7 @@ ORG:editor.exportDialog.defaults.authorName
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2026-01-26</dateTime>
-        <description language="en"><![CDATA[1769359507475]]></description>
+        <description language="en"><![CDATA[1769442972062]]></description>
       </date>
     </contribute>
     <contribute>
@@ -73,7 +73,7 @@ ORG:editor.exportDialog.defaults.authorName
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2026-01-26</dateTime>
-        <description language="en"><![CDATA[1769359507475]]></description>
+        <description language="en"><![CDATA[1769442972062]]></description>
       </date>
     </contribute>
     <contribute>
@@ -88,7 +88,7 @@ ORG:editor.exportDialog.defaults.authorName
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2026-01-26</dateTime>
-        <description language="en"><![CDATA[1769359507475]]></description>
+        <description language="en"><![CDATA[1769442972062]]></description>
       </date>
     </contribute>
     <contribute>
@@ -102,7 +102,7 @@ ORG:editor.exportDialog.defaults.authorName
 END:VCARD  ]]></entity>
       <date>
         <dateTime>2026-01-26</dateTime>
-        <description language="en"><![CDATA[1769359507475]]></description>
+        <description language="en"><![CDATA[1769442972062]]></description>
       </date>
     </contribute>
   </lifeCycle>
